@@ -9,6 +9,8 @@
 </template>
 
 <script>
+import { ... } from '@uniswap/sdk'
+
 export default {
   name: 'Home',
   data(){
