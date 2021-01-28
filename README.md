@@ -1,4 +1,5 @@
-# stock-dex
+# Decentralized Stock Exchange
+
 
 ## Project setup
 ```
