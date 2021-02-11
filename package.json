@@ -10,7 +10,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^2.4.0",
     "@uniswap/sdk": "^1.0.0-beta.4",
-    "apexcharts": "^3.11.3",
+    "apexcharts": "^3.24.0",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.1.0",
     "chai": "^4.2.0",
