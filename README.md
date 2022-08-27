@@ -1,4 +1,4 @@
-# Decentralized Stock Exchange
+# The Tulip Decentralized Stock Exchange (TulipDex)
 
 Video of how it started: https://www.youtube.com/watch?v=TcR-eGkItE0
 
